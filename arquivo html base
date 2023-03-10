@@ -1,0 +1,29 @@
+<body> 
+           <header> 
+                <h1>Titulo da Página</h1> 
+          </header> 
+          <main> 
+                <section> 
+                      <h2>Primeiro Assunto</h2> 
+                      <article> 
+                           <h3>Subtópico</h3> 
+                        <p>Aqui você vai discorrer sobre o assunto.</p> 
+                      </article> 
+                     <article> 
+                             <h3>Subtópico  2</h3> 
+                            <p>Aqui você vai discorrer sobre o assunto.</p> 
+                      </article> 
+                </section> 
+               <section> 
+                      <h2>Segundo Assunto  </h2> 
+                      <article> 
+                             <h3>Subtópico</h3> 
+                              <p>Aqui você vai discorrer sobre o assunto.</p> 
+                     </article> 
+                     <article> 
+                              <h3>Subtópico  2</h3> 
+                            <p>Aqui você vai discorrer sobre o assunto.</p> 
+                    </article> 
+             </section> 
+         </main> 
+           <footer>
